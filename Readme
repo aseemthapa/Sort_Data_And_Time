@@ -1,0 +1,7 @@
+This program is a basic Java Program to sort user-specified
+number of dates and times. This program only runs if the input
+is in the specified format:
+
+Enter no. of data: Input should be non-negative integer
+Enter data: must be in format MM/DD/YY (eg: Dec 13th,2009 is 12/13/09)
+Enter time: must be in format HH:MM AM/PM(eg: 12:13 AM or, 12:13 PM)
